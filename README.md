@@ -23,4 +23,4 @@
 
 ### Решение задач находится в файлах: tr_server.py и tr_client.py
 Вывод программы:
-![pic1.png](pic1.png)
+![pic1.PNG](pic1.PNG)
